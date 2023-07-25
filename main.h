@@ -6,10 +6,11 @@
 
 #include <stdarg.h>
 #include <unistd.h>
+#include <string.h>
 
 /* The following section declares prototypes utilized*/
 
 int _printf(const char *format, ...);
-int _putchar(char x);
+int _putcha:(char x);
 
 #endif/*MAIN_H*/
